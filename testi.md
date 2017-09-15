@@ -1,3 +1,3 @@
 # Antti Pitkänen
 
-## A creator
+## A creator of things
