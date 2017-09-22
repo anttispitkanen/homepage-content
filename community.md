@@ -6,4 +6,6 @@ A big part of the job is also being involved in the local startup community, inc
 
 ### <a href="https://meetabit.com/communities/tamperejs" target="_blank">TampereJS</a>
 
-plaa plaa plaa plaa plaa plaa plaa plaa plaa plaa plaa plaa plaa plaa plaa plaa plaa plaa plaa plaa plaa plaa plaa plaa plaa plaa plaa plaa plaa plaa plaa plaa plaa plaa plaa plaa plaa plaa plaa plaa plaa plaa
+TampereJS is a community that organizes monthly JavaScript related meetups in Tampere. My role as an organizer is to get sponsors for the events, do marketing, act as an MC and make sure that everything runs smoothly.
+
+I've been a part of the team since the fall of 2017 and have since given a few talks myself.
