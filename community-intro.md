@@ -1,3 +1,3 @@
 ## Community
 
-Different communities have helped me a lot during my life, so I want to give back to people.
+I enjoy being a part of communities. These are some I'm active in.
