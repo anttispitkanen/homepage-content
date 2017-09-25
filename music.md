@@ -8,4 +8,8 @@ Listen to Poetkoe on <a href="https://soundcloud.com/poetkoe" target="_blank">So
 
 ### Solo & Band
 
+I have sung and played guitar, bass and keys on gigs both solo and with a band for years.
 
+What I find most interesting about playing live is improvisation: the need to stay focused and ready to adapt to changing situations. A request from the audience can take the whole show to a new direction.
+
+Playing with a group of people is the ultimate form of teamwork and communication, and playing with new people is always different and exciting.
