@@ -10,6 +10,6 @@ A big part of the job is also being involved in the local startup community, inc
 
 ![](https://res.cloudinary.com/toughbyte/image/upload/b_transparent,c_pad,g_center,h_230,w_230/v1474029802/wdg367emtnrtzzjz6tug.jpg)
 
-TampereJS is a community that organizes monthly JavaScript related meetups in Tampere. My role as an organizer is to get sponsors for the events, do marketing, act as an MC and make sure that everything runs smoothly.
+TampereJS is a community that organizes monthly JavaScript related meetups in Tampere. My role as an organizer is to get sponsors for the events, do marketing, act as an MC at the events and make sure that everything runs smoothly.
 
 I've been a part of the team since the fall of 2016 and have since given a few talks myself.
