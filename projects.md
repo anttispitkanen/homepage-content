@@ -20,7 +20,7 @@ A Node script that plays the Wikipedia game of finding the article about Philoso
 
 ### Poetkoe website
 
-My artist website.
+My musician website.
 
 <a href="http://www.poetkoe.com/" target="_blank">Live</a>
 <a href="https://github.com/anttispitkanen/poetkoe-website" target="_blank">Source</a>
