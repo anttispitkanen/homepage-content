@@ -18,15 +18,15 @@ A Node script that plays the Wikipedia game of finding the article about Philoso
 
 <a href="https://github.com/anttispitkanen/wikipedia-game" target="_blank">Source</a>
 
-### Poetkoe website
-
-My musician website.
-
-<a href="http://www.poetkoe.com/" target="_blank">Live</a>
-<a href="https://github.com/anttispitkanen/poetkoe-website" target="_blank">Source</a>
-
 ### anttipitkanen.com
 
 This website is built with Create React App and hosted statically on GitHub pages. What makes it a bit different is that is uses another GitHub repo for managing all the text and image content. See the source for more info.
 
 <a href="https://github.com/anttispitkanen/homepage/" target="_blank">Source</a>
+
+### Poetkoe website
+
+My musician website. Also built with GitHub as the CMS.
+
+<a href="http://www.poetkoe.com/" target="_blank">Live</a>
+<a href="https://github.com/anttispitkanen/poetkoe" target="_blank">Source</a>
