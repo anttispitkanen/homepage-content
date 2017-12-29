@@ -27,6 +27,6 @@ My musician website. Also built with GitHub as the CMS.
 
 ### CrowdMill (Junction 2017)
 
-I attended <a href="https://hackjunction.com/" target="_blank">Junction</a> (the biggest hackathon in Europe) in 2017. Our team built an app for facial detection from video that can be used i.e. to count and monitor the movement of people in public spaces such as malls or on public transport. My role was to implement the front-end business logic for the demo in React and Redux. It was a lot of fun to work with a talented team on an interesting project.
+I attended <a href="https://hackjunction.com/" target="_blank">Junction</a> (the biggest hackathon in Europe) in 2017. Our team built an app for facial detection from video that can be used i.e. to count and monitor the movement of people in public spaces such as malls or on public transportation. My role was to implement the front-end business logic for the demo in React and Redux. It was a lot of fun to work with a talented team on an interesting project.
 
 <a href="https://devpost.com/software/darkdata" target="_blank">See more</a>
