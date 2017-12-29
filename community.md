@@ -6,7 +6,7 @@
 
 <a href="" target="_blank">Tribe Tampere</a> is an open community consisting of people dedicated to serve the Tampere startup and entrepreneurial ecosystem. Tribe operates as a platform. It means creating value for organizations and individuals by making it easier for them to connect with each other in a meaningful way. One way of saying it is it empowers those who try to help others achieve their dreams.
 
-I'm a board member at Tribe Tampere as the representative of Y-kampus. I'm also involved in organizing events and generally developing the ecosystem.
+I'm a board member at Tribe Tampere as the representative of Y-kampus. I'm also involved in several projects and generally developing the ecosystem.
 
 ### TampereJS
 
