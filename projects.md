@@ -12,12 +12,6 @@ A web app that locates the user with GPS and fetches the fastest bus routes from
 <a href="https://trebus.herokuapp.com/" target="_blank">Live</a>
 <a href="https://github.com/anttispitkanen/trebus" target="_blank">Source</a>
 
-### Wikipedia game
-
-A Node script that plays the Wikipedia game of finding the article about Philosophy. Implemented in Finnish and English.
-
-<a href="https://github.com/anttispitkanen/wikipedia-game" target="_blank">Source</a>
-
 ### anttipitkanen.com
 
 This website is built with Create React App and hosted statically on GitHub pages. What makes it a bit different is that is uses another GitHub repo for managing all the text and image content. See the source for more info.
@@ -30,3 +24,9 @@ My musician website. Also built with GitHub as the CMS.
 
 <a href="http://www.poetkoe.com/" target="_blank">Live</a>
 <a href="https://github.com/anttispitkanen/poetkoe" target="_blank">Source</a>
+
+### CrowdMill (Junction 2017)
+
+I attended <a href="https://hackjunction.com/" target="_blank">Junction</a> (the biggest hackathon in Europe) in 2017. Our team built an app for facial detection from video that can be used i.e. to count and monitor the movement of people in public spaces such as malls or on public transport. My role was to implement the front-end business logic for the demo in React and Redux. It was a lot of fun to work with a talented team on an interesting project.
+
+<a href="https://devpost.com/software/darkdata" target="_blank">See more</a>
