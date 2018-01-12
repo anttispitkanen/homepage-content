@@ -13,3 +13,9 @@ I'm a board member at Tribe Tampere as the representative of Y-kampus. I'm also 
 <a href="https://meetabit.com/communities/tamperejs" target="_blank">TampereJS</a> is a community that organizes monthly JavaScript related meetups in Tampere. My role as an organizer is to get sponsors for the events, do marketing, act as an MC at the events and make sure that everything runs smoothly.
 
 I've been a part of the team since the fall of 2016 and have since given a few talks myself.
+
+### Tampere Startup Weekend
+
+We are bringing <a href="https://startupweekend.org/" target="_blank">Startup Weekend</a> to Tampere for the first time in March 2018. My role in the team is in marketing and handling developer relations.
+
+See more on our <a href="https://twitter.com/swtampere" target="_blank">Twitter</a>.
