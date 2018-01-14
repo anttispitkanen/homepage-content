@@ -14,7 +14,7 @@ I'm a board member at Tribe Tampere as the representative of Y-kampus. I'm also 
 
 I've been a part of the team since the fall of 2016 and have since given a few talks myself.
 
-### Tampere Startup Weekend
+### Startup Weekend Tampere
 
 We are bringing <a href="https://startupweekend.org/" target="_blank">Startup Weekend</a> to Tampere for the first time in March 2018. My role in the team is in marketing and handling developer relations.
 
