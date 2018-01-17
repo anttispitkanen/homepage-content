@@ -1,3 +1,10 @@
+### UTA course calendar
+
+I study at University of Tampere and got tired of having to write my courses in my calendar by hand. So, using the University of Tampere open data API, I built an app that automates it. Now any student at UTA can copy the course URL from the official schedules, paste it in this app and click to create their own study calendar.
+
+<a href="https://utacoursecalendar.herokuapp.com/" target="_blank">Live</a>
+<a href="https://github.com/anttispitkanen/uta-course-calendar" target="_blank">Source</a>
+
 ### Y-bus
 
 A website that uses the Tampere open public transportation API to display current bus schedule information between the three universities in Tampere.
