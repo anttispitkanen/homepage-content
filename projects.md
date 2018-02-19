@@ -4,6 +4,7 @@ I study at University of Tampere and got tired of having to write my courses in 
 
 <a href="https://utacoursecalendar.herokuapp.com/" target="_blank">Live</a>
 <a href="https://github.com/anttispitkanen/uta-course-calendar" target="_blank">Source</a>
+<a href="https://www.facebook.com/utacoursecalendar/" target="_blank">Facebook</a>
 
 ### Y-bus
 
