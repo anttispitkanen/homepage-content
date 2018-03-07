@@ -2,13 +2,15 @@
 
 <a href="https://tribetampere.com/" target="_blank">Tribe Tampere</a> is an open community consisting of people dedicated to serve the Tampere startup and entrepreneurial ecosystem. Tribe operates as a platform. It means creating value for organizations and individuals by making it easier for them to connect with each other in a meaningful way. One way of saying it is it empowers those who try to help others achieve their dreams.
 
-As the representative of Y-kampus I am a board member and currently the Vice Chairperson in Tribe Tampere. I'm also involved in several projects and generally developing the ecosystem.
+As the representative of Y-kampus I am a board member and currently the Vice President in Tribe Tampere. I'm also involved in several projects and generally developing the ecosystem.
 
 ### Startup Weekend Tampere
 
-We are bringing <a href="https://startupweekend.org/" target="_blank">Startup Weekend</a> to Tampere for the first time in March 2018. My role in the organizer team is in marketing and and reaching out to developers, as well as hands-on event organizing.
+We brought <a href="https://startupweekend.org/" target="_blank">Startup Weekend</a> to Tampere for the first time in March 2018 with an international volunteer team. My role in the organizer team was in marketing, handling social media accounts, doing F2F promotion and handling ticket saled and registrations. During the event I took care of attendee communications, pitching feedback to the teams, running the tech, running the social media accounts, and whatever was needed at any given time.
 
-See more on our official <a href="http://communities.techstars.com/finland/tampere-finland/startup-weekend/12218" target="_blank">website</a> and on social media: <a href="https://www.facebook.com/startupweekendtampere/" target="_blank">Facebook</a> and <a href="https://twitter.com/swtampere" target="_blank">Twitter</a>.
+I could not be more satisfied with how the event turned out and the feedback given by attendees, coaches, judges and sponsors. The team was by far the greatest team I've ever been involved in, much kudos and praise to <a href="https://www.linkedin.com/in/elisalukin/" target="_blank">Elisa</a>, <a href="https://www.linkedin.com/in/darynabarsukova/" target="_blank">Daryna</a>, <a href="https://www.linkedin.com/in/ainosiiroinen/" target="_blank">Aino</a>, <a href="https://www.linkedin.com/in/alexandraengstromsantos/" target="_blank">Alexandra</a> and <a href="https://www.linkedin.com/in/anna-pilch/" target="_blank">Anna</a>. Check them out if you are ever in the need of great people!
+
+See more on our official <a href="http://communities.techstars.com/finland/tampere-finland/startup-weekend/12218" target="_blank">website</a> and on social media: <a href="https://www.facebook.com/startupweekendtampere/" target="_blank">Facebook</a>, <a href="https://twitter.com/swtampere" target="_blank">Twitter</a> and <a href="https://instagram.com/swtampere" target="_blank">Instagram</a>.
 
 ### Y-kampus
 
