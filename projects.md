@@ -10,7 +10,7 @@ I study at University of Tampere and got tired of having to write my courses in 
 
 At <a href="http://tampere.es" target="_blank" rel="noreferrer noopener">Tampere ES</a> we do a lot of pitching. To help practice, I built a Pitch KaraokES game where you can practice pitching with either Quick Fire pitching or Karaoke pitching. Try it, it's fun! What's technically interesting is that it's a SPA hosted on GitHub Pages with reload-enabled client side routing. You can dig into the source code to see more about that.
 
-<a href="http://pitchkaraokes.com/" target="_blank" rel="noreferrer noopener">Live</a>
+<a href="https://pitchkaraokes.com/" target="_blank" rel="noreferrer noopener">Live</a>
 <a href="https://github.com/anttispitkanen/pitch-karaoke" target="_blank" rel="noreferrer noopener">Source</a>
 
 ### Y-bus
