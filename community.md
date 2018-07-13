@@ -1,8 +1,12 @@
+### Tampere Entrepreneurship Society
+
+<a href="http://www.tampere.es/" target="_blank">Tampere ES</a> is a non-profit, student-led open community where diverse people can meet and create their personal network in real life. We focus on infecting students with the entrepreneurial attitude, getting them into the bigger entrepreneurial ecosystem and supporting them in the process. We also keep good connections to the other Entrepreneurship Societies in Finland, opening opportunities on a national level.
+
 ### Tribe Tampere
 
 <a href="https://tribetampere.com/" target="_blank">Tribe Tampere</a> is an open community consisting of people dedicated to serve the Tampere startup and entrepreneurial ecosystem. Tribe operates as a platform. It means creating value for organizations and individuals by making it easier for them to connect with each other in a meaningful way. One way of saying it is it empowers those who try to help others achieve their dreams.
 
-As the representative of Y-kampus I am a board member and currently the Vice President in Tribe Tampere. I'm also involved in several projects and generally developing the ecosystem.
+Several big projects have been done through Tribe Tampere, the biggest of which are Startup World Cup Finland 2018 and the TribeX event series.
 
 ### Startup Weekend Tampere
 
@@ -14,11 +18,7 @@ See more on our official <a href="http://communities.techstars.com/finland/tampe
 
 ### Y-kampus
 
-<a href="http://y-kampus.fi" target="_blank">Y-kampus</a> is the entrepreneurship and innovation services at Tampere3 universities. I work at Y-kampus as a Network Facilitator organizing and hosting events for students and businesses, developing new forms of learning and sparring students with their business ideas.
-
-### Tampere Entrepreneurship Society
-
-<a href="http://www.tampere.es/" target="_blank">Tampere ES</a> is a non-profit, student-led open community where diverse people can meet and create their personal network in real life. I'm a board member since January 2018.
+<a href="http://y-kampus.fi" target="_blank">Y-kampus</a> is the entrepreneurship and innovation services at Tampere3 universities. I worked at Y-kampus as a Network Facilitator organizing and hosting events for students and businesses, developing new forms of learning, sparring students with their business ideas and coaching students and staff, all with my awesome colleagues. New excellent Student Activators have since continued from where we left, and I have the pleasure to mentor and coach them in their work when needed.
 
 ### TampereJS
 
