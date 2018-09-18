@@ -1,3 +1,3 @@
 # Antti Pitkänen
 
-## All kinds of stuff
+## Cool stuff
