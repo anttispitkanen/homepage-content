@@ -1,3 +1,3 @@
 # Antti Pitkänen
 
-## Creator and developer
+## All kinds of stuff
