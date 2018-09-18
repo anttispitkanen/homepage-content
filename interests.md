@@ -1,7 +1,7 @@
 ## Interests
 
-* <i class="fa fa-check-square-o"></i> Learning and being inspired
-* <i class="fa fa-check-square-o"></i> Coding and technology
-* <i class="fa fa-check-square-o"></i> Physiotherapy and exercise
-* <i class="fa fa-check-square-o"></i> Helping the people around me
-* <i class="fa fa-check-square-o"></i> Community contribution
+* <i class="fa fa-check-square-o"></i> Continuous learning
+* <i class="fa fa-check-square-o"></i> Technology and the future
+* <i class="fa fa-check-square-o"></i> Mindfulness and happiness
+* <i class="fa fa-check-square-o"></i> Making the world a better place
+* <i class="fa fa-check-square-o"></i> Public speaking
