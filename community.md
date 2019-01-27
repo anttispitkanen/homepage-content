@@ -1,12 +1,16 @@
 ### Tampere Entrepreneurship Society
 
-<a href="http://www.tampere.es/" target="_blank">Tampere ES</a> is a non-profit, student-led open community where diverse people can meet and create their personal network in real life. We focus on infecting students with the entrepreneurial attitude, getting them into the bigger entrepreneurial ecosystem and supporting them in the process. We also keep good connections to the other Entrepreneurship Societies in Finland, opening opportunities on a national level.
+<a href="http://www.tampere.es/" target="_blank">Tampere ES</a> is a non-profit, student-led open community where diverse people can meet and create their personal network in real life. The focus is on infecting students with the entrepreneurial attitude, getting them into the bigger entrepreneurial ecosystem and supporting them in the process. Also upholding good connections to the other Entrepreneurship Societies in Finland, opening opportunities on a national level.
+
+I was Vice President for 2018 and continue helping in which ever way I can, paying back to all the great opportunies I got and great people I met through Tampere ES.
 
 ### Tribe Tampere
 
 <a href="https://tribetampere.com/" target="_blank">Tribe Tampere</a> is an open community consisting of people dedicated to serve the Tampere startup and entrepreneurial ecosystem. Tribe operates as a platform. It means creating value for organizations and individuals by making it easier for them to connect with each other in a meaningful way. One way of saying it is it empowers those who try to help others achieve their dreams.
 
 Several big projects have been done through Tribe Tampere, the biggest of which are Startup World Cup Finland 2018 and the TribeX event series.
+
+I was a board member for 2018 and Chairperson for the fall of 2018. My personal mission was to make the operational model scale for the future and contribute in projects that were the most interesting to me.
 
 ### Startup Weekend Tampere
 
